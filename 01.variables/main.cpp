@@ -15,8 +15,7 @@ int main (){
     cout << "你在未來十年會賺多少錢 " << 稅前年收入 * 10;
     
     char character = 'a';
-    /* Day 1 */
-
+    /* Day 1 *, you should name your variable in the proper space*/
     system("pause>0");
 }
 
